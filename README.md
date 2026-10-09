@@ -57,6 +57,18 @@ netflix-eda-project/
 ├── README.md
 └── requirements.txt
 ```
+## Key Findings
+
+- **Content Distribution:** Movies significantly outnumber TV Shows in the Netflix dataset, with approximately 6,100 Movies compared with 2,700 TV Shows.
+- **Content Addition Trends:** Netflix content additions increased sharply from 2016 onward and peaked in 2019 at approximately 2,000 titles. The yearly additions declined after 2019.
+- **Popular Genres:** International Movies is the most frequently listed genre, followed by Dramas and Comedies.
+- **International Content:** International Movies and International TV Shows both feature among the top 10 listed categories, highlighting the variety of content represented in the catalog.
+
+## Insights and Interpretation
+
+The analysis shows that Movies make up the larger share of the catalog. Content additions rose rapidly during the late 2010s, while international content, dramas, and comedies are prominent categories in the dataset.
+
+*Note: Genre counts may include the same title in multiple categories. The yearly trend reflects the dataset's recorded addition dates, not Netflix's total global releases in each year.*
 
 ## Conclusion
 This project demonstrates data cleaning, feature engineering, exploratory analysis, and visualization techniques using a real-world entertainment dataset.
